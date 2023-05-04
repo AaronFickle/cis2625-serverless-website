@@ -1,0 +1,51 @@
+[{
+      "id": "1",
+      "primarypic":"./img/1.jpg",
+      "street_address": "570 NE Circle Street",
+      "city": "Warrensburg",
+      "state": "Missouri",
+      "zip": "64093",
+      "type": "House",
+      "sqft": "2,200",
+      "bds": "2",
+      "ba": "1.5"
+      },
+    {  
+      "id": "2", 
+      "primarypic":"./img/2.jpg",
+      "street_address": "2010 S Roger Street",
+      "city": "Lee Summit",
+      "state": "Missouri",
+      "zip": "64064",
+      "type": "House",
+      "sqft": "1,800",
+      "bds": "3",
+      "ba": "2"
+      },
+        {  
+      "id": "3", 
+      "primarypic": "./img/3.jpg",
+      "street_address": "6875 Flower Lane",
+      "city": "Warrensburg",
+      "state": "Missouri",
+      "zip": "64735",
+      "type": "House",
+      "sqft": "1,575",
+      "bds": "2",
+      "ba": "1"
+      },
+        {  
+      "id": "4",
+      "primarypic": "./img/4.jpg",
+      "street_address": "890 Straight Boulvard",
+      "city": "Lee Summit",
+      "state": "Missouri",
+      "zip": "64064",
+      "type": "House",
+      "sqft": "1,750",
+      "bds": "3",
+      "ba": "2.5"
+      }
+
+  ]
+

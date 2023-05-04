@@ -1,0 +1,33 @@
+
+body {background-color: lightblue;}
+
+a{
+    text-decoration: none;
+    
+}
+
+.banner{
+  width:auto;
+  padding: .1vw 0;
+  text-align:center;
+  background: navy;
+  color:white;
+  font-size: 5vw;
+  border: .3vw solid black;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: black;
+  padding: .2vw;
+}
+.grid-item {
+  text-decoration: none;
+  background-color: white;
+  border: .1vw solid black;
+  padding: 1vw;
+  font-size: 4vw;
+  text-align: center;
+  
+}

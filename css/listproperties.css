@@ -1,0 +1,32 @@
+body {background-color: lightblue;}
+
+img{
+    width: 30vw;
+    height: 20vw;
+}
+ul{
+    text-align: left;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 40% auto;
+  background-color: black;
+  padding: .2vw;
+}
+.grid-item {
+  text-decoration: none;
+  background-color: white;
+  border: .1vw solid black;
+  padding: 1vw;
+  font-size: 2vw;
+  text-align: center;
+  
+}
+
+.grid-container-bottom {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: black;
+  padding: .2vw;
+}
